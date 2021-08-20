@@ -5,6 +5,6 @@ Companies and land parcels data is stored in [data.py](./data.py)
 
 To run the function use the code below:
 
-```python
+`python
 	python3 get_land_parcels.py --id <company_id>
-```
+`
